@@ -1,4 +1,4 @@
-// Poxe Window API Definition
+// Zenith Window Library
 fun open_poxe_window(t, m) (
-    (print)=!("Opening System Window...")
+    (print)=!("Zenith Engine: Initializing Window...")
 )
