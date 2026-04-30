@@ -1,1 +1,4 @@
-
+// Poxe Window API Definition
+fun open_poxe_window(t, m) (
+    (print)=!("Opening System Window...")
+)
